@@ -1,0 +1,9 @@
+GEOID,NAME,variable,estimate,moe
+09001,"Fairfield County, Connecticut",B01003_001,943926,
+09003,"Hartford County, Connecticut",B01003_001,893561,
+09005,"Litchfield County, Connecticut",B01003_001,182002,
+09007,"Middlesex County, Connecticut",B01003_001,163053,
+09009,"New Haven County, Connecticut",B01003_001,857513,
+09011,"New London County, Connecticut",B01003_001,267390,
+09013,"Tolland County, Connecticut",B01003_001,151063,
+09015,"Windham County, Connecticut",B01003_001,116566,

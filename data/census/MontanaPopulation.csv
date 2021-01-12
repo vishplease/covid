@@ -1,0 +1,57 @@
+GEOID,NAME,variable,estimate,moe
+30001,"Beaverhead County, Montana",B01003_001,9415,
+30003,"Big Horn County, Montana",B01003_001,13387,
+30005,"Blaine County, Montana",B01003_001,6719,
+30007,"Broadwater County, Montana",B01003_001,5945,
+30009,"Carbon County, Montana",B01003_001,10597,
+30011,"Carter County, Montana",B01003_001,1331,111
+30013,"Cascade County, Montana",B01003_001,81625,
+30015,"Chouteau County, Montana",B01003_001,5732,
+30017,"Custer County, Montana",B01003_001,11729,
+30019,"Daniels County, Montana",B01003_001,1730,157
+30021,"Dawson County, Montana",B01003_001,9017,
+30023,"Deer Lodge County, Montana",B01003_001,9106,
+30025,"Fallon County, Montana",B01003_001,2921,139
+30027,"Fergus County, Montana",B01003_001,11221,
+30029,"Flathead County, Montana",B01003_001,99899,
+30031,"Gallatin County, Montana",B01003_001,108063,
+30033,"Garfield County, Montana",B01003_001,1036,120
+30035,"Glacier County, Montana",B01003_001,13732,
+30037,"Golden Valley County, Montana",B01003_001,728,86
+30039,"Granite County, Montana",B01003_001,3311,
+30041,"Hill County, Montana",B01003_001,16436,
+30043,"Jefferson County, Montana",B01003_001,11917,
+30045,"Judith Basin County, Montana",B01003_001,1954,
+30047,"Lake County, Montana",B01003_001,30013,
+30049,"Lewis and Clark County, Montana",B01003_001,67805,
+30051,"Liberty County, Montana",B01003_001,2351,172
+30053,"Lincoln County, Montana",B01003_001,19537,
+30055,"McCone County, Montana",B01003_001,1790,169
+30057,"Madison County, Montana",B01003_001,8302,
+30059,"Meagher County, Montana",B01003_001,1888,172
+30061,"Mineral County, Montana",B01003_001,4251,
+30063,"Missoula County, Montana",B01003_001,117309,
+30065,"Musselshell County, Montana",B01003_001,4766,132
+30067,"Park County, Montana",B01003_001,16352,
+30069,"Petroleum County, Montana",B01003_001,453,83
+30071,"Phillips County, Montana",B01003_001,4077,
+30073,"Pondera County, Montana",B01003_001,5994,
+30075,"Powder River County, Montana",B01003_001,1607,111
+30077,"Powell County, Montana",B01003_001,6854,
+30079,"Prairie County, Montana",B01003_001,1252,166
+30081,"Ravalli County, Montana",B01003_001,42512,
+30083,"Richland County, Montana",B01003_001,11199,
+30085,"Roosevelt County, Montana",B01003_001,11175,
+30087,"Rosebud County, Montana",B01003_001,9152,
+30089,"Sanders County, Montana",B01003_001,11681,
+30091,"Sheridan County, Montana",B01003_001,3483,157
+30093,"Silver Bow County, Montana",B01003_001,34770,
+30095,"Stillwater County, Montana",B01003_001,9466,
+30097,"Sweet Grass County, Montana",B01003_001,3670,
+30099,"Teton County, Montana",B01003_001,6086,
+30101,"Toole County, Montana",B01003_001,4892,
+30103,"Treasure County, Montana",B01003_001,668,79
+30105,"Valley County, Montana",B01003_001,7471,
+30107,"Wheatland County, Montana",B01003_001,2142,
+30109,"Wibaux County, Montana",B01003_001,1122,121
+30111,"Yellowstone County, Montana",B01003_001,159008,

@@ -1,0 +1,30 @@
+GEOID,NAME,variable,estimate,moe
+02013,"Aleutians East Borough, Alaska",B01003_001,3385,
+02016,"Aleutians West Census Area, Alaska",B01003_001,5698,
+02020,"Anchorage Municipality, Alaska",B01003_001,293531,
+02050,"Bethel Census Area, Alaska",B01003_001,18134,
+02060,"Bristol Bay Borough, Alaska",B01003_001,875,80
+02068,"Denali Borough, Alaska",B01003_001,2246,367
+02070,"Dillingham Census Area, Alaska",B01003_001,4961,
+02090,"Fairbanks North Star Borough, Alaska",B01003_001,99072,
+02100,"Haines Borough, Alaska",B01003_001,2518,
+02105,"Hoonah-Angoon Census Area, Alaska",B01003_001,2139,
+02110,"Juneau City and Borough, Alaska",B01003_001,32227,
+02122,"Kenai Peninsula Borough, Alaska",B01003_001,58464,
+02130,"Ketchikan Gateway Borough, Alaska",B01003_001,13800,
+02150,"Kodiak Island Borough, Alaska",B01003_001,13451,
+02158,"Kusilvak Census Area, Alaska",B01003_001,8250,
+02164,"Lake and Peninsula Borough, Alaska",B01003_001,1393,367
+02170,"Matanuska-Susitna Borough, Alaska",B01003_001,105369,
+02180,"Nome Census Area, Alaska",B01003_001,9988,
+02185,"North Slope Borough, Alaska",B01003_001,9792,
+02188,"Northwest Arctic Borough, Alaska",B01003_001,7715,
+02195,"Petersburg Borough, Alaska",B01003_001,3257,
+02198,"Prince of Wales-Hyder Census Area, Alaska",B01003_001,6407,
+02220,"Sitka City and Borough, Alaska",B01003_001,8640,
+02230,"Skagway Municipality, Alaska",B01003_001,1107,102
+02240,"Southeast Fairbanks Census Area, Alaska",B01003_001,6878,
+02261,"Valdez-Cordova Census Area, Alaska",B01003_001,9243,
+02275,"Wrangell City and Borough, Alaska",B01003_001,2502,
+02282,"Yakutat City and Borough, Alaska",B01003_001,649,89
+02290,"Yukon-Koyukuk Census Area, Alaska",B01003_001,5377,

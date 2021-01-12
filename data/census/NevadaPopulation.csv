@@ -1,0 +1,18 @@
+GEOID,NAME,variable,estimate,moe
+32001,"Churchill County, Nevada",B01003_001,24259,
+32003,"Clark County, Nevada",B01003_001,2182004,
+32005,"Douglas County, Nevada",B01003_001,48132,
+32007,"Elko County, Nevada",B01003_001,52297,
+32009,"Esmeralda County, Nevada",B01003_001,969,151
+32011,"Eureka County, Nevada",B01003_001,1859,151
+32013,"Humboldt County, Nevada",B01003_001,16828,
+32015,"Lander County, Nevada",B01003_001,5643,
+32017,"Lincoln County, Nevada",B01003_001,5180,
+32019,"Lyon County, Nevada",B01003_001,54380,
+32021,"Mineral County, Nevada",B01003_001,4460,
+32023,"Nye County, Nevada",B01003_001,44380,
+32027,"Pershing County, Nevada",B01003_001,6615,
+32029,"Storey County, Nevada",B01003_001,3988,
+32031,"Washoe County, Nevada",B01003_001,456936,
+32033,"White Pine County, Nevada",B01003_001,9679,
+32510,"Carson City, Nevada",B01003_001,54773,

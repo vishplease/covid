@@ -1,0 +1,6 @@
+GEOID,NAME,variable,estimate,moe
+15001,"Hawaii County, Hawaii",B01003_001,199459,
+15003,"Honolulu County, Hawaii",B01003_001,984821,
+15005,"Kalawao County, Hawaii",B01003_001,66,15
+15007,"Kauai County, Hawaii",B01003_001,71769,
+15009,"Maui County, Hawaii",B01003_001,165979,15
